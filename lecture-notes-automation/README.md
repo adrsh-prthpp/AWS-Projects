@@ -60,3 +60,11 @@ This project automates the conversion of recorded lecture videos into summarized
 - **CloudWatch Logs Not Showing Clear Success**  
   During testing, CloudWatch didn’t show a definitive success message after Lambda execution, even though the summarized notes were correctly saved to S3. This required verifying results directly through the S3 bucket and fine-tuning log messages to better reflect Lambda outcomes.
 
+---
+
+## ⚠️ Limitations
+
+To keep the project within the AWS Free Tier, I used Amazon Comprehend to extract key phrases and entities for summarization. While this approach provides helpful highlights, it doesn’t always capture the full context or meaning of the lecture, resulting in less accurate or detailed notes.
+
+If I weren’t limited to the Free Tier, I would have integrated a large language model (LLM) through Amazon Bedrock or SageMaker with a fine-tuned summarization model (e.g., Claude, Titan, or a distilled GPT variant). This would allow for more coherent, human-like summaries that better reflect the full content of the transcript. The implementation would involve passing the transcript text from Lambda to the LLM API and saving the returned summary in S3, replacing the current key phrase and entity-based output.
+
