@@ -1,5 +1,5 @@
 # Lecture Notes Automation 
-This project automates the conversion of recorded lecture audio files into summarized notes using AWS services. When an audio file is uploaded to S3, the system transcribes it and extracts key phrases and entities to generate concise notes, which are then saved back to S3.
+This project automates the conversion of recorded lecture videos into summarized notes using AWS services. When an lecture file is uploaded to S3, the system transcribes it and extracts key phrases and entities to generate concise notes, which are then saved back to S3.
 
 ---
 
