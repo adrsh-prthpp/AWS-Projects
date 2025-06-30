@@ -46,3 +46,17 @@ This project automates the conversion of recorded lecture audio files into summa
      1. Transcribe the audio
      2. Use Comprehend to extract phrases/entities
      3. Save a text file in `summarized-notes/`
+
+---
+
+## 🧱 Challenges Faced
+
+- **Implementing Least Privilege IAM Policies**  
+  It took some trial and error to get the IAM permissions configured correctly. I started with broader `*FullAccess` policies to get the Lambda function working, but gradually refined the permissions down to only what was required. This process helped reinforce a stronger understanding of AWS IAM principles and the nuances of service-specific actions.
+
+- **Refactoring from Two Lambda Functions to One**  
+  My initial approach involved two separate Lambda functions: one for transcription and one for summarization. However, this created unnecessary complexity, particularly with handling the intermediate transcript file in S3. I ultimately combined both steps into a single Lambda function, simplifying the architecture and reducing latency between steps.
+
+- **CloudWatch Logs Not Showing Clear Success**  
+  During testing, CloudWatch didn’t show a definitive success message after Lambda execution, even though the summarized notes were correctly saved to S3. This required verifying results directly through the S3 bucket and fine-tuning log messages to better reflect Lambda outcomes.
+
