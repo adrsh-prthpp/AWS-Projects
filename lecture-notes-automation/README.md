@@ -14,7 +14,7 @@ This project automates the conversion of recorded lecture videos into summarized
   - AWS IAM (permissions)
 - **Output**: Summarized notes saved to a `summarized-notes/` folder in the same bucket
 
-![Architecture Diagram](NotesAutomationDiagram.drawio.png)
+![Architecture Diagram](lecture-notes-automation/assets/NotesAutomationDiagram.drawio.png)
 
 ---
 
