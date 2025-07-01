@@ -78,6 +78,6 @@ It also made lecture review faster and more effective for both me and peers I sh
 
 ## ⚠️ Limitations
 
-To stay within the AWS Free Tier, I used Amazon Comprehend for summarization. While it highlights useful content, it lacks the deeper contextual understanding that an LLM would provide.
+To stay within the AWS Free Tier, I used Amazon Comprehend for summarization. While it highlights useful content, it focuses more on sentiment analysis rather than providing detailed notes for the class. 
 
 If budget weren’t a concern, I would integrate **Amazon Bedrock** with a language model like **Claude** or **ChatGPT** to produce more efficient notes. The Lambda function would pass transcript text to the LLM and save its response as the final summary.
