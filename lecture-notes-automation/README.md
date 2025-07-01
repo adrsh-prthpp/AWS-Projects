@@ -1,72 +1,83 @@
-# Lecture Notes Automation 
-This project automates the conversion of recorded lecture videos into summarized notes using AWS services. When an lecture file is uploaded to S3, the system transcribes it and extracts key phrases and entities to generate concise notes, which are then saved back to S3.
+# Lecture Notes Automation
+
+This project automates the conversion of recorded lecture videos into summarized notes using AWS services. It leverages a serverless, event-driven architecture to transcribe lectures and extract key information using NLP tools — all within the AWS Free Tier.
 
 ---
 
-## 🧩 Architecture Overview
+## ⭐️ Situation
 
-- **Trigger**: S3 `PUT` event (lecture upload)
-- **Compute**: AWS Lambda
+As a student, I often found it time consuming and inefficient to manually review and summarize recorded lectures that I had already attended/watched. I wanted to create a system that could automate this task, delivering concise summaries of the lectures, so I could go over the main concepts of the lecture without having to search through the entire recording. 
+
+---
+
+## 🎯 Task
+
+The goal was to design and implement a serverless pipeline using AWS that:
+- Automatically responds to lecture uploads
+- Transcribes the lecture content
+- Applies NLP to extract key phrases and entities
+- Stores summarized notes for quick access
+
+All while adhering to AWS Free Tier limits and practicing least-privilege IAM principles.
+
+---
+
+## 🛠️ Action
+
+I built the system with the following architecture:
+
+- **Trigger**: S3 `PutObject` event when a lecture video is uploaded
+- **Compute**: AWS Lambda (Python 3.12)
 - **Services Used**:
-  - Amazon S3 (Storage and Event trigger)
-  - Amazon Transcribe (Speech-to-text)
-  - Amazon Comprehend (NLP: key phrases, entities)
-  - AWS IAM (permissions)
-- **Output**: Summarized notes saved to a `summarized-notes/` folder in the same bucket
+  - **Amazon S3** – for upload detection and note storage
+  - **Amazon Transcribe** – converts audio to text
+  - **Amazon Comprehend** – extracts entities and key phrases
+  - **IAM** – enforces least-privilege access control
 
-![Architecture Diagram](assets/NotesAutomationDiagram.drawio.png)
+   ![Architecture Diagram](assets/NotesAutomationDiagram.drawio.png)
+
+### Implementation:
+
+1. **S3 Bucket Setup**
+   - Configured to trigger Lambda on `uploads/` prefix
+   - Summarized notes stored in `summarized-notes/`
+
+2. **Lambda Function**
+   - Starts the transcription job using Transcribe
+   - Waits for completion and retrieves the transcript
+   - Analyzes content with Comprehend
+   - Formats and saves a summary text file back to S3
+
+3. **IAM Role Configuration**
+   - Custom IAM role with specific permissions for:
+     - `s3:GetObject`, `s3:PutObject`
+     - `transcribe:StartTranscriptionJob`, `transcribe:GetTranscriptionJob`
+     - `comprehend:DetectKeyPhrases`, `comprehend:DetectEntities`
 
 ---
 
-## ⚙️ Setup Steps
+## ✅ Result
 
-1. **Create an S3 Bucket**
-   - Enable event notifications for object creation.
-   - Set up two folders: `uploads/` for raw audio, and `summarized-notes/` for output.
+The system successfully automates the creation of lecture notes with no manual intervention. Lecture files uploaded to S3 are processed within minutes, and concise summaries are delivered in a seperate folder within the same bucket. This project improved my understanding of:
 
-2. **Create the IAM Role for the Lambda Function**
- 
-    Assign IAM permissions following least-privilege access:
-   - S3
-     - `s3:GetObject`
-     - `s3:PutObject`
-   - Transcribe
-     - `transcribe:StartTranscriptionJob`
-     - `transcribe:GetTranscriptionJob`
-   - Comprehend
-     - `comprehend:DetectKeyPhrases`
-     - `comprehend:DetectEntities`
+- AWS Lambda orchestration
+- IAM policy design (least privilege)
+- Integrating multiple AWS AI services in a single workflow
 
-3. **Create the Lambda Function**
-   - Runtime: Python 3.12
-   - Upload the `lambda_function.py` file from this folder.
-   - Set the S3 trigger to respond to `s3:ObjectCreated:*` events in the `uploads/` prefix.
-
-4. **Test It**
-   - Upload an audio file (e.g., `.mp3`, `.wav`) to `uploads/`.
-   - Lambda will:
-     1. Transcribe the audio
-     2. Use Comprehend to extract phrases/entities
-     3. Save a text file in `summarized-notes/`
+It also made lecture review faster and more effective for both me and peers I shared it with.
 
 ---
 
 ## 🧱 Challenges Faced
 
-- **Implementing Least Privilege IAM Policies**  
-  It took some trial and error to get the IAM permissions configured correctly. I started with broader `*FullAccess` policies to get the Lambda function working, but gradually refined the permissions down to only what was required. This process helped reinforce a stronger understanding of AWS IAM principles and the nuances of service-specific actions.
-
-- **Refactoring from Two Lambda Functions to One**  
-  My initial approach involved two separate Lambda functions: one for transcription and one for summarization. However, this created unnecessary complexity, particularly with handling the intermediate transcript file in S3. I ultimately combined both steps into a single Lambda function, simplifying the architecture and reducing latency between steps.
-
-- **CloudWatch Logs Not Showing Clear Success**  
-  During testing, CloudWatch didn’t show a definitive success message after Lambda execution, even though the summarized notes were correctly saved to S3. This required verifying results directly through the S3 bucket and fine-tuning log messages to better reflect Lambda outcomes.
+- **IAM Complexity**: Fine-tuning least-privilege roles required multiple iterations and debugging across services.
+- **Architecture Simplification**: I originally used two Lambda functions but refactored to a single one for efficiency and lower latency.
+- **CloudWatch Logging**: Lack of clear success indicators required enhanced logging and manual result validation in S3.
 
 ---
 
 ## ⚠️ Limitations
 
-To keep the project within the AWS Free Tier, I used Amazon Comprehend to extract key phrases and entities for summarization. While this approach provides helpful highlights, it doesn’t always capture the full context or meaning of the lecture, resulting in less accurate or detailed notes.
+To stay within the AWS Free Tier, I used Amazon Comprehend for summarization. While it highlights useful content, it lacks the deeper contextual understanding that an LLM would provide.
 
-If I weren’t limited to the Free Tier, I would have integrated a large language model (LLM) through Amazon Bedrock or SageMaker with a fine-tuned summarization model (e.g., Claude, Titan, or a distilled GPT variant). This would allow for more coherent, human-like summaries that better reflect the full content of the transcript. The implementation would involve passing the transcript text from Lambda to the LLM API and saving the returned summary in S3, replacing the current key phrase and entity-based output.
-
+If budget weren’t a concern, I would integrate **Amazon Bedrock** with a language model like **Claude** or **ChatGPT** to produce more efficient notes. The Lambda function would pass transcript text to the LLM and save its response as the final summary.
