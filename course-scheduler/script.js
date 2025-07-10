@@ -20,7 +20,7 @@ document.getElementById('scheduleForm').addEventListener('submit', async (e) => 
     return;
   }
 
-  // 📤 Send to your API (replace with actual endpoint)
+  //Send to your API (replace with actual endpoint)
   const payload = {
     email,
     endDate,
