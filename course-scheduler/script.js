@@ -29,7 +29,7 @@ document.getElementById('scheduleForm').addEventListener('submit', async (e) => 
   };
 
   try {
-    const res = await fetch("YOUR_API_ENDPOINT_HERE", {
+    const res = await fetch("https://bzab5xsmz3.execute-api.us-east-1.amazonaws.com/dev", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
