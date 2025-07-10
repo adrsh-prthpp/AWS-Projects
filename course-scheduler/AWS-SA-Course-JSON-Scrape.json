@@ -1,0 +1,1474 @@
+[
+  {
+    "order": 1,
+    "title": "Public Introduction\n                  \n                    (4:04\n                    )"
+  },
+  {
+    "order": 2,
+    "title": "AWS Exams\n                  \n                    (17:32\n                    )"
+  },
+  {
+    "order": 3,
+    "title": "Scenario - Animals4life\n                  \n                    (13:28\n                    )"
+  },
+  {
+    "order": 4,
+    "title": "Connect with other students and your instructor\n                  \n                    (3:10\n                    )"
+  },
+  {
+    "order": 5,
+    "title": "COURSE UPGRADES - SAVE $ WHEN ADDING MORE COURSES"
+  },
+  {
+    "order": 6,
+    "title": "SHARED LESSONS [SHAREDALL] [ASSOCIATESHARED] etc..."
+  },
+  {
+    "order": 7,
+    "title": "🚨 READ ME 🚨 - ENABLE EMAIL UPDATES (IT'S WORTH IT)"
+  },
+  {
+    "order": 8,
+    "title": "AWS Accounts - The basics\n                  \n                    (11:33\n                    )"
+  },
+  {
+    "order": 9,
+    "title": "[DEMO] ACCOUNTS - STEP1 - Creating  GENERAL AWS Account\n                  \n                    (14:44\n                    )"
+  },
+  {
+    "order": 10,
+    "title": "Multi-factor Authentication (MFA)\n                  \n                    (8:25\n                    )"
+  },
+  {
+    "order": 11,
+    "title": "[DEMO] ACCOUNTS - STEP2 - Securing GENERAL AWS Account\n                  \n                    (9:44\n                    )"
+  },
+  {
+    "order": 12,
+    "title": "[DEMO] ACCOUNTS - STEP3 - Creating a Budget\n                  \n                    (6:46\n                    )"
+  },
+  {
+    "order": 13,
+    "title": "[DOITYOURSELF] Creating the Production Account\n                  \n                    (4:59\n                    )"
+  },
+  {
+    "order": 14,
+    "title": "Identity and Access Management (IAM) Basics\n                  \n                    (13:01\n                    )"
+  },
+  {
+    "order": 15,
+    "title": "[DEMO] ACCOUNTS - STEP4 - Adding IAMADMIN to GENERAL Account\n                  \n                    (12:36\n                    )"
+  },
+  {
+    "order": 16,
+    "title": "[DEMO] ACCOUNTS - STEP4 - Adding IAMADMIN to PRODUCTION Account\n                  \n                    (10:17\n                    )"
+  },
+  {
+    "order": 17,
+    "title": "IAM Access Keys\n                  \n                    (7:10\n                    )"
+  },
+  {
+    "order": 18,
+    "title": "[DEMO] Creating Access keys and setting up AWS CLI v2 tools\n                  \n                    (17:43\n                    )"
+  },
+  {
+    "order": 19,
+    "title": "TECH FUNDAMENTALS CONTENT (!!PLEASE READ ME!!)"
+  },
+  {
+    "order": 20,
+    "title": "[ASSOCIATESHARED] AWS Public vs Private Services\n                  \n                    (7:04\n                    )"
+  },
+  {
+    "order": 21,
+    "title": "[ASSOCIATESHARED] AWS Global Infrastructure\n                  \n                    (14:54\n                    )"
+  },
+  {
+    "order": 22,
+    "title": "[ASSOCIATESHARED] AWS Default Virtual Private Cloud (VPC)\n                  \n                    (15:19\n                    )"
+  },
+  {
+    "order": 23,
+    "title": "[ASSOCIATESHARED] Elastic Compute Cloud (EC2) Basics\n                  \n                    (14:46\n                    )"
+  },
+  {
+    "order": 24,
+    "title": "[ASSOCIATESHARED] [DEMO] My First EC2 Instance - PART1\n                  \n                    (10:58\n                    )"
+  },
+  {
+    "order": 25,
+    "title": "[ASSOCIATESHARED] [DEMO] My First EC2 Instance - PART2\n                  \n                    (9:40\n                    )"
+  },
+  {
+    "order": 26,
+    "title": "[ASSOCIATESHARED]Simple Storage Service (S3) Basics\n                  \n                    (15:48\n                    )"
+  },
+  {
+    "order": 27,
+    "title": "[ASSOCIATESHARED] [DEMO] My First S3 Bucket\n                  \n                    (18:34\n                    )"
+  },
+  {
+    "order": 28,
+    "title": "[ASSOCIATESHARED] CloudFormation (CFN) Basics\n                  \n                    (12:28\n                    )"
+  },
+  {
+    "order": 29,
+    "title": "[ASSOCIATESHARED] [DEMO] Simple Automation With CloudFormation (CFN)\n                  \n                    (15:52\n                    )"
+  },
+  {
+    "order": 30,
+    "title": "[ASSOCIATESHARED] CloudWatch (CW) Basics\n                  \n                    (13:45\n                    )"
+  },
+  {
+    "order": 31,
+    "title": "[ASSOCIATESHARED] [Demo] Simple Monitoring with Cloudwatch\n                  \n                    (15:31\n                    )"
+  },
+  {
+    "order": 32,
+    "title": "[ASSOCIATESHARED] Shared Responsibility Model\n                  \n                    (6:20\n                    )"
+  },
+  {
+    "order": 33,
+    "title": "[ASSOCIATESHARED] High-Availability vs Fault-Tolerance vs Disaster Recovery\n                  \n                    (17:21\n                    )"
+  },
+  {
+    "order": 34,
+    "title": "[ASSOCIATESHARED] Route53 (R53) Fundamentals\n                  \n                    (6:29\n                    )"
+  },
+  {
+    "order": 35,
+    "title": "[SHAREDALL] [DEMO] Registering a Domain with route53\n                  \n                    (9:49\n                    )"
+  },
+  {
+    "order": 36,
+    "title": "[ASSOCIATESHARED] DNS Record Types\n                  \n                    (13:25\n                    )"
+  },
+  {
+    "order": 37,
+    "title": "Fundamentals Section Quiz"
+  },
+  {
+    "order": 38,
+    "title": "[ASSOCIATESHARED] IAM Identity Policies\n                  \n                    (15:52\n                    )"
+  },
+  {
+    "order": 39,
+    "title": "[ASSOCIATESHARED] IAM Users and ARNs\n                  \n                    (13:49\n                    )"
+  },
+  {
+    "order": 40,
+    "title": "[ASSOCIATE SHARED] [DEMO] Simple Identity Permissions in AWS\n                  \n                    (16:06\n                    )"
+  },
+  {
+    "order": 41,
+    "title": "[ASSOCIATESHARED] IAM Groups\n                  \n                    (7:48\n                    )"
+  },
+  {
+    "order": 42,
+    "title": "[ASSOCIATESHARED] [DEMO] Permissions control using IAM Groups\n                  \n                    (9:24\n                    )"
+  },
+  {
+    "order": 43,
+    "title": "[ASSOCIATESHARED] IAM Roles - The Tech\n                  \n                    (8:13\n                    )"
+  },
+  {
+    "order": 44,
+    "title": "[ASSOCIATESHARED] When to use IAM Roles\n                  \n                    (15:27\n                    )"
+  },
+  {
+    "order": 45,
+    "title": "Service-linked Roles & PassRole\n                  \n                    (5:16\n                    )"
+  },
+  {
+    "order": 46,
+    "title": "[ASSOCIATESHARED] AWS Organizations\n                  \n                    (12:56\n                    )"
+  },
+  {
+    "order": 47,
+    "title": "[SHAREDALL] [DEMO] AWS Organizations\n                  \n                    (19:48\n                    )"
+  },
+  {
+    "order": 48,
+    "title": "[ASSOCIATESHARED] Service Control Policies (SCPs)\n                  \n                    (12:44\n                    )"
+  },
+  {
+    "order": 49,
+    "title": "[SHAREDALL] [DEMO] Using Service Control Policies\n                  \n                    (16:45\n                    )"
+  },
+  {
+    "order": 50,
+    "title": "[ASSOCIATESHARED] CloudWatch Logs\n                  \n                    (7:16\n                    )"
+  },
+  {
+    "order": 51,
+    "title": "[ASSOCIATESHARED] CloudTrail\n                  \n                    (11:40\n                    )"
+  },
+  {
+    "order": 52,
+    "title": "[SHAREDALL] [DEMO] Implementing an Organizational Trail\n                  \n                    (18:23\n                    )"
+  },
+  {
+    "order": 53,
+    "title": "AWS Control Tower 101\n                  \n                    (15:42\n                    )"
+  },
+  {
+    "order": 54,
+    "title": "IAM & Orgs Section Quiz"
+  },
+  {
+    "order": 55,
+    "title": "[ASSOCIATESHARED] S3 Security (Resource Policies & ACLs)\n                  \n                    (18:19\n                    )"
+  },
+  {
+    "order": 56,
+    "title": "[ASSOCIATESHARED] S3 Static Hosting\n                  \n                    (10:36\n                    )"
+  },
+  {
+    "order": 57,
+    "title": "[SHAREDALL] [Demo] Creating a static website with S3\n                  \n                    (17:55\n                    )"
+  },
+  {
+    "order": 58,
+    "title": "[ASSOCIATESHARED] Object Versioning & MFA Delete\n                  \n                    (7:41\n                    )"
+  },
+  {
+    "order": 59,
+    "title": "[SHAREDALL] [DEMO] - S3 Versioning\n                  \n                    (15:45\n                    )"
+  },
+  {
+    "order": 60,
+    "title": "[ASSOCIATESHARED] S3 Performance Optimization\n                  \n                    (11:42\n                    )"
+  },
+  {
+    "order": 61,
+    "title": "[ASSOCIATESHARED] [DEMO] - S3 Performance\n                  \n                    (5:06\n                    )"
+  },
+  {
+    "order": 62,
+    "title": "[ASSOCIATESHARED] Key Management Service (KMS)\n                  \n                    (18:38\n                    )"
+  },
+  {
+    "order": 63,
+    "title": "[SHAREDALL] [DEMO] KMS - Encrypting the battleplans with KMS\n                  \n                    (12:43\n                    )"
+  },
+  {
+    "order": 64,
+    "title": "[SHAREDALL] S3 Object Encryption CSE/SSE\n                  \n                    (23:31\n                    )"
+  },
+  {
+    "order": 65,
+    "title": "[SHAREDALL] [DEMO] Object Encryption and Role Separation\n                  \n                    (14:50\n                    )"
+  },
+  {
+    "order": 66,
+    "title": "S3 Bucket Keys\n                  \n                    (5:59\n                    )"
+  },
+  {
+    "order": 67,
+    "title": "[ASSOCIATESHARED] S3 Object Storage Classes - PART1\n                  \n                    (9:23\n                    )"
+  },
+  {
+    "order": 68,
+    "title": "[ASSOCIATESHARED] S3 Object Storage Classes - PART2\n                  \n                    (11:41\n                    )"
+  },
+  {
+    "order": 69,
+    "title": "[ASSOCIATESHARED] S3 Lifecycle Configuration\n                  \n                    (8:13\n                    )"
+  },
+  {
+    "order": 70,
+    "title": "[SHAREDALL] S3 Replication\n                  \n                    (13:59\n                    )"
+  },
+  {
+    "order": 71,
+    "title": "[SHAREDALL] [DEMO] Cross-Region Replication of an S3 Static Website\n                  \n                    (19:52\n                    )"
+  },
+  {
+    "order": 72,
+    "title": "[ASSOCIATESHARED] S3 PreSigned URLs\n                  \n                    (11:11\n                    )"
+  },
+  {
+    "order": 73,
+    "title": "[SHAREDALL] [DEMO] Creating and using PresignedURLs\n                  \n                    (18:23\n                    )"
+  },
+  {
+    "order": 74,
+    "title": "[ASSOCIATESHARED] S3 Select and Glacier Select\n                  \n                    (5:33\n                    )"
+  },
+  {
+    "order": 75,
+    "title": "[ASSOCIATESHARED] S3 Events\n                  \n                    (4:32\n                    )"
+  },
+  {
+    "order": 76,
+    "title": "[ASSOCIATESHARED] S3 Access Logs\n                  \n                    (3:05\n                    )"
+  },
+  {
+    "order": 77,
+    "title": "[ASSOCIATESHARED] S3 Object Lock\n                  \n                    (9:52\n                    )"
+  },
+  {
+    "order": 78,
+    "title": "S3 Access Points\n                  \n                    (5:52\n                    )"
+  },
+  {
+    "order": 79,
+    "title": "[DEMO] Multi-Region Access Points (MRAP)\n                  \n                    (20:25\n                    )"
+  },
+  {
+    "order": 80,
+    "title": "S3 Section Quiz"
+  },
+  {
+    "order": 81,
+    "title": "[ASSOCIATESHARED] VPC Sizing and Structure - PART1\n                  \n                    (11:48\n                    )"
+  },
+  {
+    "order": 82,
+    "title": "[ASSOCIATESHARED] VPC Sizing and Structure - PART2\n                  \n                    (11:16\n                    )"
+  },
+  {
+    "order": 83,
+    "title": "[SHAREDALL] Custom VPCs - PART1 - THEORY\n                  \n                    (10:10\n                    )"
+  },
+  {
+    "order": 84,
+    "title": "[SHAREDALL] [DEMO] Custom VPCs - PART2 - DEMO [UPDATED20231129]\n                  \n                    (5:40\n                    )"
+  },
+  {
+    "order": 85,
+    "title": "[ASSOCIATESHARED] VPC Subnets\n                  \n                    (10:42\n                    )"
+  },
+  {
+    "order": 86,
+    "title": "[SHAREDALL] [DEMO] Implement multi-tier VPC subnets [UPDATED20231129]\n                  \n                    (15:03\n                    )"
+  },
+  {
+    "order": 87,
+    "title": "[ASSOCIATESHARED] VPC Routing, Internet Gateway & Bastion Hosts\n                  \n                    (17:35\n                    )"
+  },
+  {
+    "order": 88,
+    "title": "[ASSOCIATESHARED] [DEMO] Configuring A4L public subnets and Jumpbox - PART1 [UPDATED20231119]\n                  \n                    (13:45\n                    )"
+  },
+  {
+    "order": 89,
+    "title": "[ASSOCIATESHARED] [DEMO] Configuring A4L public subnets and Jumpbox - PART2 [UPDATED20231119]\n                  \n                    (11:35\n                    )"
+  },
+  {
+    "order": 90,
+    "title": "[ASSOCIATESHARED] Stateful vs Stateless Firewalls\n                  \n                    (14:04\n                    )"
+  },
+  {
+    "order": 91,
+    "title": "[ASSOCIATESHARED] Network Access Control Lists (NACLs)\n                  \n                    (12:38\n                    )"
+  },
+  {
+    "order": 92,
+    "title": "[ASSOCIATESHARED] Security Groups (SG)\n                  \n                    (11:48\n                    )"
+  },
+  {
+    "order": 93,
+    "title": "[ASSOCIATESHARED] Network Address Translation (NAT) & NAT Gateway - PART1\n                  \n                    (13:43\n                    )"
+  },
+  {
+    "order": 94,
+    "title": "[ASSOCIATESHARED] Network Address Translation (NAT) & NAT Gateway - PART2\n                  \n                    (11:08\n                    )"
+  },
+  {
+    "order": 95,
+    "title": "[ASSOCIATESHARED] [DEMO] Implementing private internet access using NAT Gateways\n                  \n                    (19:25\n                    )"
+  },
+  {
+    "order": 96,
+    "title": "VPC Basics Section Quiz"
+  },
+  {
+    "order": 97,
+    "title": "[ASSOCIATESHARED] Virtualization 101\n                  \n                    (12:27\n                    )"
+  },
+  {
+    "order": 98,
+    "title": "[ASSOCIATESHARED] EC2 Architecture and Resilience\n                  \n                    (12:36\n                    )"
+  },
+  {
+    "order": 99,
+    "title": "[ASSOCIATESHARED] EC2 Instance Types - PART1\n                  \n                    (11:52\n                    )"
+  },
+  {
+    "order": 100,
+    "title": "[ASSOCIATESHARED] EC2 Instance Types - PART2\n                  \n                    (8:13\n                    )"
+  },
+  {
+    "order": 101,
+    "title": "[ASSOCIATESHARED] [DEMO] EC2 SSH vs EC2 Instance Connect\n                  \n                    (17:06\n                    )"
+  },
+  {
+    "order": 102,
+    "title": "[ASSOCIATESHARED] Storage Refresher\n                  \n                    (14:16\n                    )"
+  },
+  {
+    "order": 103,
+    "title": "[ASSOCIATESHARED] Elastic Block Store (EBS) Service Architecture\n                  \n                    (8:43\n                    )"
+  },
+  {
+    "order": 104,
+    "title": "[ASSOCIATESHARED] EBS Volume Types - General Purpose\n                  \n                    (9:23\n                    )"
+  },
+  {
+    "order": 105,
+    "title": "[ASSOCIATESHARED] EBS Volume Types - Provisioned IOPS\n                  \n                    (6:16\n                    )"
+  },
+  {
+    "order": 106,
+    "title": "[ASSOCIATESHARED] EBS Volume Types - HDD-Based\n                  \n                    (4:32\n                    )"
+  },
+  {
+    "order": 107,
+    "title": "[ASSOCIATESHARED] Instance Store Volumes - Architecture\n                  \n                    (9:00\n                    )"
+  },
+  {
+    "order": 108,
+    "title": "[ASSOCIATESHARED] Choosing between the EC2 Instance Store and EBS\n                  \n                    (8:49\n                    )"
+  },
+  {
+    "order": 109,
+    "title": "[ASSOCIATESHARED] Snapshots, Restore & Fast Snapshot Restore (FSR)\n                  \n                    (10:55\n                    )"
+  },
+  {
+    "order": 110,
+    "title": "[ASSOCIATESHARED] [DEMO] EBS Volumes - PART1\n                  \n                    (15:16\n                    )"
+  },
+  {
+    "order": 111,
+    "title": "[ASSOCIATESHARED] [DEMO] EBS Volumes - PART2\n                  \n                    (14:13\n                    )"
+  },
+  {
+    "order": 112,
+    "title": "[ASSOCIATESHARED] [DEMO] EBS Volumes - PART3\n                  \n                    (14:27\n                    )"
+  },
+  {
+    "order": 113,
+    "title": "[ASSOCIATESHARED] EBS Encryption\n                  \n                    (8:22\n                    )"
+  },
+  {
+    "order": 114,
+    "title": "[ASSOCIATESHARED] Network Interfaces, Instance IPs and DNS\n                  \n                    (15:58\n                    )"
+  },
+  {
+    "order": 115,
+    "title": "[ASSOCIATESHARED] [DEMO] Manual Install of Wordpress on EC2 - PART1\n                  \n                    (12:27\n                    )"
+  },
+  {
+    "order": 116,
+    "title": "[ASSOCIATESHARED] [DEMO] Manual Install of Wordpress on EC2 - PART2\n                  \n                    (12:36\n                    )"
+  },
+  {
+    "order": 117,
+    "title": "[ASSOCIATESHARED] Amazon Machine Images (AMI)\n                  \n                    (13:58\n                    )"
+  },
+  {
+    "order": 118,
+    "title": "[ASSOCIATESHARED] [DEMO] Creating an Animals4life AMI - PART1\n                  \n                    (9:38\n                    )"
+  },
+  {
+    "order": 119,
+    "title": "[ASSOCIATESHARED] [DEMO] Creating an Animals4life AMI - PART2\n                  \n                    (10:57\n                    )"
+  },
+  {
+    "order": 120,
+    "title": "[ASSOCIATESHARED] [DEMO] Copying & Sharing an AMI\n                  \n                    (8:35\n                    )"
+  },
+  {
+    "order": 121,
+    "title": "EC2 Purchase Options - PART1\n                  \n                    (9:22\n                    )"
+  },
+  {
+    "order": 122,
+    "title": "EC2 Purchase Options - PART2\n                  \n                    (11:56\n                    )"
+  },
+  {
+    "order": 123,
+    "title": "Reserved Instances - the rest\n                  \n                    (11:58\n                    )"
+  },
+  {
+    "order": 124,
+    "title": "[ASSOCIATESHARED] Instance Status Checks & Auto Recovery\n                  \n                    (7:42\n                    )"
+  },
+  {
+    "order": 125,
+    "title": "[ASSOCIATESHARED] [DEMO] Shutdown, Terminate & Termination Protection\n                  \n                    (5:40\n                    )"
+  },
+  {
+    "order": 126,
+    "title": "[ASSOCIATESHARED] Horizontal & Vertical Scaling\n                  \n                    (11:24\n                    )"
+  },
+  {
+    "order": 127,
+    "title": "[ASSOCIATESHARED] Instance Metadata [THEORY & DEMO]\n                  \n                    (15:46\n                    )"
+  },
+  {
+    "order": 128,
+    "title": "EC2 Basics Section Quiz"
+  },
+  {
+    "order": 129,
+    "title": "[ASSOCIATESHARED] Introduction to Containers\n                  \n                    (17:13\n                    )"
+  },
+  {
+    "order": 130,
+    "title": "[SHAREDALL] [DEMO] Creating 'container of cats' Docker Image\n                  \n                    (18:15\n                    )"
+  },
+  {
+    "order": 131,
+    "title": "[ASSOCIATESHARED] ECS - Concepts\n                  \n                    (10:26\n                    )"
+  },
+  {
+    "order": 132,
+    "title": "[ASSOCIATESHARED] ECS - Cluster Mode\n                  \n                    (13:09\n                    )"
+  },
+  {
+    "order": 133,
+    "title": "[SHAREDALL] [DEMO] - Deploying 'container of cats' using Fargate [UI UPDATES IN PROGRESS]\n                  \n                    (13:13\n                    )"
+  },
+  {
+    "order": 134,
+    "title": "Elastic Container Registry (ECR)\n                  \n                    (4:14\n                    )"
+  },
+  {
+    "order": 135,
+    "title": "[SHAREDALL] Kubernetes 101\n                  \n                    (11:27\n                    )"
+  },
+  {
+    "order": 136,
+    "title": "[SHAREDALL] Elastic Kubernetes Service (EKS) 101\n                  \n                    (6:14\n                    )"
+  },
+  {
+    "order": 137,
+    "title": "Containers Section Quiz"
+  },
+  {
+    "order": 138,
+    "title": "[ASSOCIATESHARED] Bootstrapping EC2 using User Data\n                  \n                    (10:25\n                    )"
+  },
+  {
+    "order": 139,
+    "title": "[ASSOCIATESHARED] [DEMO] Bootstrapping Wordpress Installation - PART1\n                  \n                    (15:00\n                    )"
+  },
+  {
+    "order": 140,
+    "title": "[ASSOCIATESHARED] [DEMO] Bootstrapping Wordpress Installation - PART2\n                  \n                    (6:45\n                    )"
+  },
+  {
+    "order": 141,
+    "title": "Enhanced Bootstrapping with CFN-INIT\n                  \n                    (11:52\n                    )"
+  },
+  {
+    "order": 142,
+    "title": "[DEMO] CFN-INIT and CFN Creation Policies\n                  \n                    (12:29\n                    )"
+  },
+  {
+    "order": 143,
+    "title": "[ASSOCIATESHARED] EC2 Instance Roles & Profile\n                  \n                    (4:18\n                    )"
+  },
+  {
+    "order": 144,
+    "title": "[ASSOCIATESHARED] [DEMO] Using EC2 Instance Roles\n                  \n                    (13:31\n                    )"
+  },
+  {
+    "order": 145,
+    "title": "[ASSOCIATESHARED] SSM Parameter Store\n                  \n                    (6:16\n                    )"
+  },
+  {
+    "order": 146,
+    "title": "[ASSOCIATESHARED] [DEMO] Parameter Store\n                  \n                    (16:11\n                    )"
+  },
+  {
+    "order": 147,
+    "title": "[ASSOCIATESHARED] System and Application Logging on EC2\n                  \n                    (6:15\n                    )"
+  },
+  {
+    "order": 148,
+    "title": "[ASSOCIATESHARED] [DEMO] Logging and Metrics with CloudWatch Agent-PART1\n                  \n                    (11:51\n                    )"
+  },
+  {
+    "order": 149,
+    "title": "[ASSOCIATESHARED] [DEMO] Logging and Metrics with CloudWatch Agent-PART2\n                  \n                    (8:08\n                    )"
+  },
+  {
+    "order": 150,
+    "title": "[ASSOCIATESHARED] EC2 Placement Groups\n                  \n                    (14:29\n                    )"
+  },
+  {
+    "order": 151,
+    "title": "Dedicated Hosts\n                  \n                    (8:56\n                    )"
+  },
+  {
+    "order": 152,
+    "title": "[ASSOCIATESHARED] Enhanced Networking & EBS Optimized\n                  \n                    (6:57\n                    )"
+  },
+  {
+    "order": 153,
+    "title": "Advanced EC2 Section Quiz"
+  },
+  {
+    "order": 154,
+    "title": "[ASSOCIATESHARED] R53 Public Hosted Zones\n                  \n                    (6:28\n                    )"
+  },
+  {
+    "order": 155,
+    "title": "[ASSOCIATESHARED] R53 Private Hosted Zones\n                  \n                    (5:10\n                    )"
+  },
+  {
+    "order": 156,
+    "title": "[ASSOCIATESHARED] CNAME vs R53 Alias\n                  \n                    (5:19\n                    )"
+  },
+  {
+    "order": 157,
+    "title": "[ASSOCIATESHARED] Simple Routing\n                  \n                    (2:17\n                    )"
+  },
+  {
+    "order": 158,
+    "title": "[ASSOCIATESHARED] R53 Health Checks\n                  \n                    (12:41\n                    )"
+  },
+  {
+    "order": 159,
+    "title": "[ASSOCIATESHARED] Failover Routing\n                  \n                    (1:53\n                    )"
+  },
+  {
+    "order": 160,
+    "title": "[SHAREDALL] [DEMO] Using R53 and Failover Routing-PART1\n                  \n                    (16:41\n                    )"
+  },
+  {
+    "order": 161,
+    "title": "[SHAREDALL] [DEMO] Using R53 and Failover Routing-PART2\n                  \n                    (6:28\n                    )"
+  },
+  {
+    "order": 162,
+    "title": "[ASSOCIATESHARED] Multi Value Routing\n                  \n                    (2:32\n                    )"
+  },
+  {
+    "order": 163,
+    "title": "[ASSOCIATESHARED] Weighted Routing\n                  \n                    (3:24\n                    )"
+  },
+  {
+    "order": 164,
+    "title": "[ASSOCIATESHARED] Latency Routing\n                  \n                    (2:44\n                    )"
+  },
+  {
+    "order": 165,
+    "title": "[ASSOCIATESHARED] Geolocation Routing\n                  \n                    (5:02\n                    )"
+  },
+  {
+    "order": 166,
+    "title": "[ASSOCIATESHARED] Geoproximity\n                  \n                    (4:50\n                    )"
+  },
+  {
+    "order": 167,
+    "title": "[ASSOCIATESHARED] R53 Interoperability\n                  \n                    (11:50\n                    )"
+  },
+  {
+    "order": 168,
+    "title": "Implementing DNSSEC using Route53\n                  \n                    (17:43\n                    )"
+  },
+  {
+    "order": 169,
+    "title": "Route53 Section Quiz"
+  },
+  {
+    "order": 170,
+    "title": "[ASSOCIATESHARED] Database Refresher & MODELS - PART1\n                  \n                    (8:51\n                    )"
+  },
+  {
+    "order": 171,
+    "title": "[ASSOCIATESHARED] Database Refresher & MODELS - PART2\n                  \n                    (14:45\n                    )"
+  },
+  {
+    "order": 172,
+    "title": "ACID vs BASE\n                  \n                    (11:02\n                    )"
+  },
+  {
+    "order": 173,
+    "title": "[ASSOCIATESHARED] Databases on EC2\n                  \n                    (13:08\n                    )"
+  },
+  {
+    "order": 174,
+    "title": "[ASSOCIATESHARED][DEMO] Splitting Wordpress Monolith => APP & DB\n                  \n                    (18:01\n                    )"
+  },
+  {
+    "order": 175,
+    "title": "[ASSOCIATESHARED] Relational Database Service (RDS) Architecture\n                  \n                    (11:39\n                    )"
+  },
+  {
+    "order": 176,
+    "title": "[ASSOCIATESHARED] [DEMO] Migrating EC2 DB into RDS - PART1\n                  \n                    (18:20\n                    )"
+  },
+  {
+    "order": 177,
+    "title": "[ASSOCIATESHARED] [DEMO] Migrating EC2 DB into RDS - PART2\n                  \n                    (12:58\n                    )"
+  },
+  {
+    "order": 178,
+    "title": "[ASSOCIATESHARED] Relational Database Service (RDS) MultiAZ - Instance and Cluster\n                  \n                    (11:54\n                    )"
+  },
+  {
+    "order": 179,
+    "title": "[ASSOCIATESHARED] RDS Automatic Backup, RDS Snapshots and Restore\n                  \n                    (8:52\n                    )"
+  },
+  {
+    "order": 180,
+    "title": "[ASSOCIATESHARED] RDS Read-Replicas\n                  \n                    (6:36\n                    )"
+  },
+  {
+    "order": 181,
+    "title": "[ASSOCIATESHARED] [DEMO] MultiAZ & Snapshot Restore with RDS - PART1\n                  \n                    (14:05\n                    )"
+  },
+  {
+    "order": 182,
+    "title": "[ASSOCIATESHARED] [DEMO] MultiAZ & Snapshot Restore with RDS - PART2\n                  \n                    (12:07\n                    )"
+  },
+  {
+    "order": 183,
+    "title": "[ASSOCIATESHARED] RDS Data Security\n                  \n                    (7:03\n                    )"
+  },
+  {
+    "order": 184,
+    "title": "RDS Custom\n                  \n                    (5:22\n                    )"
+  },
+  {
+    "order": 185,
+    "title": "[ASSOCIATESHARED] Aurora Architecture\n                  \n                    (13:44\n                    )"
+  },
+  {
+    "order": 186,
+    "title": "[ASSOCIATESHARED] Aurora Serverless\n                  \n                    (9:52\n                    )"
+  },
+  {
+    "order": 187,
+    "title": "[DEMO] Migrating to Aurora Serverless [DONT DO THIS DEMO, IT WON'T WORK, UPDATING to SERVERLESSv2]\n                  \n                    (14:47\n                    )"
+  },
+  {
+    "order": 188,
+    "title": "[ASSOCIATESHARED] Aurora Global Database\n                  \n                    (5:08\n                    )"
+  },
+  {
+    "order": 189,
+    "title": "[ASSOCIATESHARED] Multi-master writes\n                  \n                    (7:51\n                    )"
+  },
+  {
+    "order": 190,
+    "title": "[ASSOCIATESHARED] Relational Database Service (RDS) - RDS Proxy\n                  \n                    (9:47\n                    )"
+  },
+  {
+    "order": 191,
+    "title": "[ASSOCIATESHARED] Database Migration Service (DMS)\n                  \n                    (11:03\n                    )"
+  },
+  {
+    "order": 192,
+    "title": "RDS Section Quiz"
+  },
+  {
+    "order": 193,
+    "title": "[ASSOCIATESHARED] EFS Architecture\n                  \n                    (9:05\n                    )"
+  },
+  {
+    "order": 194,
+    "title": "[ASSOCIATESHARED][DEMO] Implementing EFS - PART1\n                  \n                    (8:51\n                    )"
+  },
+  {
+    "order": 195,
+    "title": "[ASSOCIATESHARED][DEMO] Implementing EFS - PART2\n                  \n                    (11:32\n                    )"
+  },
+  {
+    "order": 196,
+    "title": "[ASSOCIATESHARED] [DEMO] Using EFS with Wordpress\n                  \n                    (16:00\n                    )"
+  },
+  {
+    "order": 197,
+    "title": "AWS Backup\n                  \n                    (6:36\n                    )"
+  },
+  {
+    "order": 198,
+    "title": "Network Storage Section Quiz"
+  },
+  {
+    "order": 199,
+    "title": "[ASSOCIATESHARED] Regional and Global AWS Architecture\n                  \n                    (10:42\n                    )"
+  },
+  {
+    "order": 200,
+    "title": "[ASSOCIATESHARED] Evolution of the Elastic Load Balancer\n                  \n                    (4:10\n                    )"
+  },
+  {
+    "order": 201,
+    "title": "[SHAREDALL] Elastic Load Balancer Architecture - PART1\n                  \n                    (10:18\n                    )"
+  },
+  {
+    "order": 202,
+    "title": "[ASSOCIATESHARED] Elastic Load Balancer Architecture - PART2\n                  \n                    (12:32\n                    )"
+  },
+  {
+    "order": 203,
+    "title": "[SHAREDALL] Application Load balancing (ALB) vs Network Load Balancing (NLB)\n                  \n                    (16:20\n                    )"
+  },
+  {
+    "order": 204,
+    "title": "[ASSOCIATESHARED] Launch Configuration and Templates\n                  \n                    (4:00\n                    )"
+  },
+  {
+    "order": 205,
+    "title": "[ASSOCIATESHARED] Auto-Scaling Groups\n                  \n                    (16:01\n                    )"
+  },
+  {
+    "order": 206,
+    "title": "[ASSOCIATESHARED] ASG Scaling Policies\n                  \n                    (10:23\n                    )"
+  },
+  {
+    "order": 207,
+    "title": "[ASSOCIATESHARED] ASG Lifecycle Hooks\n                  \n                    (4:41\n                    )"
+  },
+  {
+    "order": 208,
+    "title": "[ASSOCIATESHARED] ASG HealthCheck Comparison - EC2 vs ELB\n                  \n                    (3:38\n                    )"
+  },
+  {
+    "order": 209,
+    "title": "SSL Offload & Session Stickiness\n                  \n                    (12:11\n                    )"
+  },
+  {
+    "order": 210,
+    "title": "[SHAREDALL] [DEMO] Seeing Session Stickiness in Action\n                  \n                    (12:57\n                    )"
+  },
+  {
+    "order": 211,
+    "title": "[AdvancedDemo] Architecture Evolution - STAGE1 - PART1\n                  \n                    (14:24\n                    )"
+  },
+  {
+    "order": 212,
+    "title": "[AdvancedDemo] Architecture Evolution - STAGE1 - PART2\n                  \n                    (10:43\n                    )"
+  },
+  {
+    "order": 213,
+    "title": "[AdvancedDemo] Architecture Evolution - STAGE2\n                  \n                    (12:58\n                    )"
+  },
+  {
+    "order": 214,
+    "title": "[AdvancedDemo] Architecture Evolution - STAGE3\n                  \n                    (19:30\n                    )"
+  },
+  {
+    "order": 215,
+    "title": "[AdvancedDemo] Architecture Evolution - STAGE4\n                  \n                    (18:04\n                    )"
+  },
+  {
+    "order": 216,
+    "title": "[AdvancedDemo] Architecture Evolution - STAGE 5 - PART1\n                  \n                    (11:31\n                    )"
+  },
+  {
+    "order": 217,
+    "title": "[AdvancedDemo] Architecture Evolution - STAGE 5 - PART2\n                  \n                    (14:56\n                    )"
+  },
+  {
+    "order": 218,
+    "title": "[AdvancedDemo] Architecture Evolution - STAGE6\n                  \n                    (5:48\n                    )"
+  },
+  {
+    "order": 219,
+    "title": "Gateway Load Balancer\n                  \n                    (13:40\n                    )"
+  },
+  {
+    "order": 220,
+    "title": "HA and Scaling Section Quiz"
+  },
+  {
+    "order": 221,
+    "title": "[ASSOCIATESHARED] Architecture Deep Dive - PART1\n                  \n                    (8:52\n                    )"
+  },
+  {
+    "order": 222,
+    "title": "[ASSOCIATESHARED] Architecture Deep Dive - PART2\n                  \n                    (13:09\n                    )"
+  },
+  {
+    "order": 223,
+    "title": "[SHAREDALL] AWS Lambda - PART1\n                  \n                    (11:25\n                    )"
+  },
+  {
+    "order": 224,
+    "title": "[SHAREDALL] AWS Lambda - PART2\n                  \n                    (13:59\n                    )"
+  },
+  {
+    "order": 225,
+    "title": "[SHAREDALL] AWS Lambda - PART3\n                  \n                    (17:03\n                    )"
+  },
+  {
+    "order": 226,
+    "title": "[ASSOCIATESHARED] CloudWatchEvents and EventBridge\n                  \n                    (6:54\n                    )"
+  },
+  {
+    "order": 227,
+    "title": "[ASSOCIATESHARED] [DEMO] Automated EC2 Control using Lambda and Events - PART1\n                  \n                    (13:44\n                    )"
+  },
+  {
+    "order": 228,
+    "title": "[ASSOCIATESHARED] [DEMO] Automated EC2 Control using Lambda and Events - PART2\n                  \n                    (18:49\n                    )"
+  },
+  {
+    "order": 229,
+    "title": "Serverless Architecture\n                  \n                    (12:56\n                    )"
+  },
+  {
+    "order": 230,
+    "title": "[ASSOCIATESHARED] Simple Notification Service\n                  \n                    (7:49\n                    )"
+  },
+  {
+    "order": 231,
+    "title": "[ASSOCIATESHARED] Step Functions\n                  \n                    (16:09\n                    )"
+  },
+  {
+    "order": 232,
+    "title": "[SHAREDALL] API Gateway 101\n                  \n                    (16:27\n                    )"
+  },
+  {
+    "order": 233,
+    "title": "[MINIPROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART1\n                  \n                    (5:01\n                    )"
+  },
+  {
+    "order": 234,
+    "title": "[MINIPROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART2\n                  \n                    (8:24\n                    )"
+  },
+  {
+    "order": 235,
+    "title": "[MINIPROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART3\n                  \n                    (12:26\n                    )"
+  },
+  {
+    "order": 236,
+    "title": "[MINIPROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART4\n                  \n                    (12:45\n                    )"
+  },
+  {
+    "order": 237,
+    "title": "[MINIPROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART5\n                  \n                    (13:31\n                    )"
+  },
+  {
+    "order": 238,
+    "title": "[MINIPROJECT] Build A Serverless App - Pet-Cuddle-o-Tron - PART6\n                  \n                    (2:38\n                    )"
+  },
+  {
+    "order": 239,
+    "title": "[ASSOCIATESHARED] Simple Queue Service\n                  \n                    (15:30\n                    )"
+  },
+  {
+    "order": 240,
+    "title": "SQS Standard vs FIFO Queues\n                  \n                    (3:29\n                    )"
+  },
+  {
+    "order": 241,
+    "title": "SQS Delay Queues\n                  \n                    (4:38\n                    )"
+  },
+  {
+    "order": 242,
+    "title": "SQS Dead-Letter Queues\n                  \n                    (4:17\n                    )"
+  },
+  {
+    "order": 243,
+    "title": "[ASSOCIATESHARED] Kinesis Data Streams\n                  \n                    (7:52\n                    )"
+  },
+  {
+    "order": 244,
+    "title": "[ASSOCIATESHARED] Kinesis Data Firehose\n                  \n                    (9:11\n                    )"
+  },
+  {
+    "order": 245,
+    "title": "[ASSOCIATESHARED] Kinesis Data Analytics\n                  \n                    (8:51\n                    )"
+  },
+  {
+    "order": 246,
+    "title": "Kinesis Video Streams\n                  \n                    (5:09\n                    )"
+  },
+  {
+    "order": 247,
+    "title": "[ASSOCIATESHARED] Amazon Cognito - User and Identity Pools\n                  \n                    (14:44\n                    )"
+  },
+  {
+    "order": 248,
+    "title": "AWS Glue 101\n                  \n                    (6:23\n                    )"
+  },
+  {
+    "order": 249,
+    "title": "Amazon MQ 101\n                  \n                    (8:15\n                    )"
+  },
+  {
+    "order": 250,
+    "title": "Amazon AppFlow\n                  \n                    (3:30\n                    )"
+  },
+  {
+    "order": 251,
+    "title": "Serverless and App Services Section Quiz"
+  },
+  {
+    "order": 252,
+    "title": "[ASSOCIATESHARED] Cloudfront Architecture\n                  \n                    (14:56\n                    )"
+  },
+  {
+    "order": 253,
+    "title": "[SHAREDALL] CloudFront (CF) - Behaviours\n                  \n                    (9:21\n                    )"
+  },
+  {
+    "order": 254,
+    "title": "[SHAREDALL] CloudFront - TTL and Invalidations\n                  \n                    (13:48\n                    )"
+  },
+  {
+    "order": 255,
+    "title": "[ASSOCIATESHARED] ACM\n                  \n                    (11:21\n                    )"
+  },
+  {
+    "order": 256,
+    "title": "[ASSOCIATESHARED] Cloudfront and SSL/TLS\n                  \n                    (14:59\n                    )"
+  },
+  {
+    "order": 257,
+    "title": "[SHAREDALL] CloudFront (CF) - Origin Types & Origin Architecture\n                  \n                    (10:20\n                    )"
+  },
+  {
+    "order": 258,
+    "title": "[SHAREDALL] [DEMO] CloudFront (CF) - Adding a CDN to a static Website-PART1\n                  \n                    (16:23\n                    )"
+  },
+  {
+    "order": 259,
+    "title": "[SHAREDALL] [DEMO] CloudFront (CF) - Adding a CDN to a static Website-PART2\n                  \n                    (12:24\n                    )"
+  },
+  {
+    "order": 260,
+    "title": "[SHAREDALL] [DEMO] CloudFront (CF) - Adding an Alternate CNAME and SSL\n                  \n                    (11:12\n                    )"
+  },
+  {
+    "order": 261,
+    "title": "[ASSOCIATESHARED] Securing CF and S3 using OAI\n                  \n                    (8:50\n                    )"
+  },
+  {
+    "order": 262,
+    "title": "CloudFront - Private Distribution & Behaviours\n                  \n                    (7:49\n                    )"
+  },
+  {
+    "order": 263,
+    "title": "[SHAREDALL] [DEMO] CloudFront (CF) - Using Origin Access Control (OAC) (new version of OAI)\n                  \n                    (11:21\n                    )"
+  },
+  {
+    "order": 264,
+    "title": "[ASSOCIATESHARED] Lambda@Edge\n                  \n                    (8:03\n                    )"
+  },
+  {
+    "order": 265,
+    "title": "Global Accelerator\n                  \n                    (10:29\n                    )"
+  },
+  {
+    "order": 266,
+    "title": "CDN and Optimisation Section Quiz"
+  },
+  {
+    "order": 267,
+    "title": "VPC Flow Logs\n                  \n                    (9:56\n                    )"
+  },
+  {
+    "order": 268,
+    "title": "[ASSOCIATESHARED] Egress-Only Internet gateway\n                  \n                    (6:46\n                    )"
+  },
+  {
+    "order": 269,
+    "title": "[ASSOCIATESHARED] VPC Endpoints (Gateway)\n                  \n                    (11:14\n                    )"
+  },
+  {
+    "order": 270,
+    "title": "[ASSOCIATESHARED] VPC Endpoints (Interface)\n                  \n                    (11:26\n                    )"
+  },
+  {
+    "order": 271,
+    "title": "[SHAREDALL] [DEMO] VPC Endpoints - Interface - PART1\n                  \n                    (11:59\n                    )"
+  },
+  {
+    "order": 272,
+    "title": "[SHAREDALL] [DEMO] VPC Endpoints - Gateway - PART2\n                  \n                    (9:59\n                    )"
+  },
+  {
+    "order": 273,
+    "title": "[SHAREDALL] [DEMO] Egress-Only Internet Gateway - PART3\n                  \n                    (7:57\n                    )"
+  },
+  {
+    "order": 274,
+    "title": "[ASSOCIATESHARED] VPC Peering\n                  \n                    (9:04\n                    )"
+  },
+  {
+    "order": 275,
+    "title": "[SHAREDALL] [DEMO] VPC Peering\n                  \n                    (22:38\n                    )"
+  },
+  {
+    "order": 276,
+    "title": "Advanced VPC Section Quiz"
+  },
+  {
+    "order": 277,
+    "title": "Border Gateway Protocol 101\n                  \n                    (17:29\n                    )"
+  },
+  {
+    "order": 278,
+    "title": "IPSec VPN Fundamentals\n                  \n                    (14:54\n                    )"
+  },
+  {
+    "order": 279,
+    "title": "AWS Site-to-Site VPN\n                  \n                    (18:05\n                    )"
+  },
+  {
+    "order": 280,
+    "title": "[DEMO] Simple Site2Site VPN - STAGE0 - SETUP\n                  \n                    (4:52\n                    )"
+  },
+  {
+    "order": 281,
+    "title": "[DEMO] Simple Site2Site VPN - STAGE1 - AWS VPN\n                  \n                    (10:01\n                    )"
+  },
+  {
+    "order": 282,
+    "title": "[DEMO] Simple Site2Site VPN - STAGE2 - onprep pfSense Config\n                  \n                    (17:09\n                    )"
+  },
+  {
+    "order": 283,
+    "title": "[DEMO] Simple Site2Site VPN - STAGE3 - Routing & Security\n                  \n                    (10:29\n                    )"
+  },
+  {
+    "order": 284,
+    "title": "[DEMO] Simple Site2Site VPN - STAGE4 - Testing\n                  \n                    (5:42\n                    )"
+  },
+  {
+    "order": 285,
+    "title": "[DEMO] Simple Site2Site VPN - STAGE5 - Cleanup\n                  \n                    (1:50\n                    )"
+  },
+  {
+    "order": 286,
+    "title": "Direct Connect (DX) Concepts\n                  \n                    (9:37\n                    )"
+  },
+  {
+    "order": 287,
+    "title": "Direct Connect (DX) Resilience\n                  \n                    (13:50\n                    )"
+  },
+  {
+    "order": 288,
+    "title": "Direct Connect (DX) - Public VIF + VPN (Encryption)\n                  \n                    (6:43\n                    )"
+  },
+  {
+    "order": 289,
+    "title": "Transit Gateway\n                  \n                    (10:26\n                    )"
+  },
+  {
+    "order": 290,
+    "title": "Storage Gateway - Volume\n                  \n                    (14:15\n                    )"
+  },
+  {
+    "order": 291,
+    "title": "Storage Gateway - Tape (VTL)\n                  \n                    (12:11\n                    )"
+  },
+  {
+    "order": 292,
+    "title": "Storage Gateway - File\n                  \n                    (12:15\n                    )"
+  },
+  {
+    "order": 293,
+    "title": "Snowball / Edge / Snowmobile [NEW VERSION COMING SOON]\n                  \n                    (10:47\n                    )"
+  },
+  {
+    "order": 294,
+    "title": "Directory Service\n                  \n                    (15:50\n                    )"
+  },
+  {
+    "order": 295,
+    "title": "DataSync\n                  \n                    (9:27\n                    )"
+  },
+  {
+    "order": 296,
+    "title": "[ASSOCIATESHARED] FSx for Windows Servers\n                  \n                    (11:32\n                    )"
+  },
+  {
+    "order": 297,
+    "title": "[ASSOCIATESHARED] FSx For Lustre\n                  \n                    (13:57\n                    )"
+  },
+  {
+    "order": 298,
+    "title": "[ASSOCIATESHARED] AWS Transfer Family\n                  \n                    (10:24\n                    )"
+  },
+  {
+    "order": 299,
+    "title": "Hybrid and Migration Section Quiz"
+  },
+  {
+    "order": 300,
+    "title": "AWS Secrets Manager\n                  \n                    (7:44\n                    )"
+  },
+  {
+    "order": 301,
+    "title": "Application Layer (L7) Firewall\n                  \n                    (7:44\n                    )"
+  },
+  {
+    "order": 302,
+    "title": "Web Application Firewall (WAF), WEBACLs, Rule Groups and Rules\n                  \n                    (19:18\n                    )"
+  },
+  {
+    "order": 303,
+    "title": "AWS Shield\n                  \n                    (9:47\n                    )"
+  },
+  {
+    "order": 304,
+    "title": "CloudHSM\n                  \n                    (14:36\n                    )"
+  },
+  {
+    "order": 305,
+    "title": "AWS Config\n                  \n                    (6:14\n                    )"
+  },
+  {
+    "order": 306,
+    "title": "Amazon Macie\n                  \n                    (12:04\n                    )"
+  },
+  {
+    "order": 307,
+    "title": "[DEMO] Amazon Macie\n                  \n                    (15:35\n                    )"
+  },
+  {
+    "order": 308,
+    "title": "Amazon Inspector\n                  \n                    (6:28\n                    )"
+  },
+  {
+    "order": 309,
+    "title": "Amazon Guardduty\n                  \n                    (4:14\n                    )"
+  },
+  {
+    "order": 310,
+    "title": "Section Quiz"
+  },
+  {
+    "order": 311,
+    "title": "[ASSOCIATESHARED] CloudFormation Physical & Logical Resources\n                  \n                    (7:30\n                    )"
+  },
+  {
+    "order": 312,
+    "title": "[ASSOCIATESHARED] [DEMO] Simple Non Portable Template - PART1\n                  \n                    (10:28\n                    )"
+  },
+  {
+    "order": 313,
+    "title": "[ASSOCIATESHARED] [DEMO] Simple Non Portable Template - PART2\n                  \n                    (11:28\n                    )"
+  },
+  {
+    "order": 314,
+    "title": "[ASSOCIATESHARED] CloudFormation Template and Pseudo Parameters\n                  \n                    (6:53\n                    )"
+  },
+  {
+    "order": 315,
+    "title": "[ASSOCIATESHARED] CloudFormation Intrinsic Functions\n                  \n                    (14:28\n                    )"
+  },
+  {
+    "order": 316,
+    "title": "[ASSOCIATESHARED] CloudFormation Mappings\n                  \n                    (4:30\n                    )"
+  },
+  {
+    "order": 317,
+    "title": "[ASSOCIATESHARED] CloudFormation Outputs\n                  \n                    (3:37\n                    )"
+  },
+  {
+    "order": 318,
+    "title": "[ASSOCIATESHARED] [DEMO] Template v2 - Portable\n                  \n                    (13:34\n                    )"
+  },
+  {
+    "order": 319,
+    "title": "[ASSOCIATESHARED] CloudFormation Conditions\n                  \n                    (7:24\n                    )"
+  },
+  {
+    "order": 320,
+    "title": "[ASSOCIATESHARED] CloudFormation DependsOn\n                  \n                    (7:14\n                    )"
+  },
+  {
+    "order": 321,
+    "title": "[ASSOCIATESHARED] CloudFormation Wait Conditions & cfn-signal\n                  \n                    (11:52\n                    )"
+  },
+  {
+    "order": 322,
+    "title": "[ASSOCIATESHARED] CloudFormation Nested Stacks\n                  \n                    (13:55\n                    )"
+  },
+  {
+    "order": 323,
+    "title": "[ASSOCIATESHARED] CloudFormation Cross-Stack References\n                  \n                    (10:05\n                    )"
+  },
+  {
+    "order": 324,
+    "title": "[ASSOCIATESHARED] CloudFormation Stack Sets\n                  \n                    (9:12\n                    )"
+  },
+  {
+    "order": 325,
+    "title": "[ASSOCIATESHARED] CloudFormation Deletion Policy\n                  \n                    (5:24\n                    )"
+  },
+  {
+    "order": 326,
+    "title": "[ASSOCIATESHARED] CloudFormation Stack Roles\n                  \n                    (6:47\n                    )"
+  },
+  {
+    "order": 327,
+    "title": "[ASSOCIATESHARED] CloudFormation Init (CFN-INIT)\n                  \n                    (8:48\n                    )"
+  },
+  {
+    "order": 328,
+    "title": "[ASSOCIATESHARED] CloudFormation cfn-hup\n                  \n                    (4:13\n                    )"
+  },
+  {
+    "order": 329,
+    "title": "[ASSOCIATESHARED] [DEMO] wait conditions, cfnsignal, cfninit and cfnhup-PART1\n                  \n                    (12:51\n                    )"
+  },
+  {
+    "order": 330,
+    "title": "[ASSOCIATESHARED] [DEMO] wait conditions, cfnsignal, cfninit and cfnhup-PART2\n                  \n                    (14:42\n                    )"
+  },
+  {
+    "order": 331,
+    "title": "[ASSOCIATESHARED] CloudFormation ChangeSets [NEW VERSION COMING SOON]\n                  \n                    (11:03\n                    )"
+  },
+  {
+    "order": 332,
+    "title": "[ASSOCIATESHARED] CloudFormation Custom Resources\n                  \n                    (11:03\n                    )"
+  },
+  {
+    "order": 333,
+    "title": "[ASSOCIATESHARED] [DEMO] CloudFormation Custom Resources-PART1\n                  \n                    (9:12\n                    )"
+  },
+  {
+    "order": 334,
+    "title": "[ASSOCIATESHARED] [DEMO] CloudFormation Custom Resources-PART2\n                  \n                    (13:27\n                    )"
+  },
+  {
+    "order": 335,
+    "title": "[ASSOCIATESHARED] DynamoDB - Architecture\n                  \n                    (10:49\n                    )"
+  },
+  {
+    "order": 336,
+    "title": "[ASSOCIATESHARED] DynamoDB - Operations, Consistency and Performance-PART1\n                  \n                    (13:06\n                    )"
+  },
+  {
+    "order": 337,
+    "title": "[ASSOCIATESHARED] DynamoDB - Operations, Consistency and Performance-PART2\n                  \n                    (11:24\n                    )"
+  },
+  {
+    "order": 338,
+    "title": "[ASSOCIATESHARED] DynamoDB Local and Global Secondary Indexes\n                  \n                    (12:35\n                    )"
+  },
+  {
+    "order": 339,
+    "title": "[ASSOCIATESHARED] DynamoDB - Streams & Lambda Triggers\n                  \n                    (9:10\n                    )"
+  },
+  {
+    "order": 340,
+    "title": "[ASSOCIATESHARED] DynamoDB - Global Tables\n                  \n                    (5:09\n                    )"
+  },
+  {
+    "order": 341,
+    "title": "[ASSOCIATESHARED] DynamoDB - Accelerator (DAX)\n                  \n                    (10:58\n                    )"
+  },
+  {
+    "order": 342,
+    "title": "[ASSOCIATESHARED] DynamoDB - TTL\n                  \n                    (4:49\n                    )"
+  },
+  {
+    "order": 343,
+    "title": "Amazon Athena\n                  \n                    (8:19\n                    )"
+  },
+  {
+    "order": 344,
+    "title": "[DEMO] Athena Demo - PART1\n                  \n                    (13:31\n                    )"
+  },
+  {
+    "order": 345,
+    "title": "[DEMO] Athena Demo - PART2\n                  \n                    (11:37\n                    )"
+  },
+  {
+    "order": 346,
+    "title": "Elasticache\n                  \n                    (12:51\n                    )"
+  },
+  {
+    "order": 347,
+    "title": "Redshift Architecture\n                  \n                    (11:32\n                    )"
+  },
+  {
+    "order": 348,
+    "title": "Redshift DR and Resilience\n                  \n                    (3:40\n                    )"
+  },
+  {
+    "order": 349,
+    "title": "NoSQL Section Quiz"
+  },
+  {
+    "order": 350,
+    "title": "Amazon Comprehend\n                  \n                    (7:28\n                    )"
+  },
+  {
+    "order": 351,
+    "title": "Amazon Kendra\n                  \n                    (5:00\n                    )"
+  },
+  {
+    "order": 352,
+    "title": "Amazon Lex\n                  \n                    (5:51\n                    )"
+  },
+  {
+    "order": 353,
+    "title": "Amazon Polly\n                  \n                    (4:04\n                    )"
+  },
+  {
+    "order": 354,
+    "title": "Amazon Rekognition\n                  \n                    (4:18\n                    )"
+  },
+  {
+    "order": 355,
+    "title": "Amazon Textract\n                  \n                    (8:42\n                    )"
+  },
+  {
+    "order": 356,
+    "title": "Amazon Transcribe\n                  \n                    (4:55\n                    )"
+  },
+  {
+    "order": 357,
+    "title": "Amazon Translate\n                  \n                    (4:32\n                    )"
+  },
+  {
+    "order": 358,
+    "title": "Amazon Forecast 101\n                  \n                    (4:04\n                    )"
+  },
+  {
+    "order": 359,
+    "title": "Amazon Fraud Detector\n                  \n                    (3:34\n                    )"
+  },
+  {
+    "order": 360,
+    "title": "Amazon SageMaker\n                  \n                    (5:39\n                    )"
+  },
+  {
+    "order": 361,
+    "title": "AWS Local Zones\n                  \n                    (8:52\n                    )"
+  },
+  {
+    "order": 362,
+    "title": "[SHAREDALL] General AWS Exam Technique - 3 Phase Approach\n                  \n                    (8:56\n                    )"
+  },
+  {
+    "order": 363,
+    "title": "[SHAREDALL] General AWS Question Technique - PART1\n                  \n                    (14:12\n                    )"
+  },
+  {
+    "order": 364,
+    "title": "[SHAREDALL] General AWS Question Technique - PART2\n                  \n                    (9:01\n                    )"
+  },
+  {
+    "order": 365,
+    "title": "Practice Exam #1"
+  },
+  {
+    "order": 366,
+    "title": "Practice Exam #2"
+  },
+  {
+    "order": 367,
+    "title": "Thanks! and a favour\n                  \n                    (3:15\n                    )"
+  },
+  {
+    "order": 368,
+    "title": "COURSE UPGRADES - SAVE $ WHEN ADDING MORE COURSES"
+  }
+]
