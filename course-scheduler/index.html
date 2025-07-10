@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Study Scheduler</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 2rem;
+      max-width: 600px;
+    }
+    label {
+      display: block;
+      margin-top: 1rem;
+    }
+    input, select {
+      width: 100%;
+      padding: 0.5rem;
+      margin-top: 0.25rem;
+    }
+    button {
+      margin-top: 2rem;
+      padding: 0.75rem 1.5rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Study Scheduler</h1>
+
+  <form id="scheduleForm">
+    <label>
+      Email Address:
+      <input type="email" id="email" required />
+    </label>
+
+    <label>
+      Goal End Date:
+      <input type="date" id="endDate" required />
+    </label>
+
+    <label>
+      Study Days:
+      <select id="studyDays" multiple required>
+        <option>Monday</option>
+        <option>Tuesday</option>
+        <option>Wednesday</option>
+        <option>Thursday</option>
+        <option>Friday</option>
+        <option>Saturday</option>
+        <option>Sunday</option>
+      </select>
+    </label>
+
+    <label>
+      Upload Course Metadata (JSON):
+      <input type="file" id="jsonFile" accept=".json" required />
+    </label>
+
+    <button type="submit">Generate Schedule</button>
+  </form>
+
+  <pre id="result"></pre>
+
+  <script src="script.js"></script>
+</body>
+</html>
